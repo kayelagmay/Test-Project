@@ -1,0 +1,12 @@
+print ("hello world")
+
+# if commandTest
+a = 10
+b = 5
+c = 2 + 8
+if a == b:
+print ("first statement is true")
+elif a == c: 
+print ("second statement is true")
+else: 
+print ("nothing is true. pain")
